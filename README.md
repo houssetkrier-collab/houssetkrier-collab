@@ -34,9 +34,11 @@
 
 | 项目 | 说明 |
 | --- | --- |
+| 🌙 [anime-planner](https://github.com/houssetkrier-collab/anime-planner) | 追番手帐：本地优先的追番管理单文件应用（放送日历 · 观看热力图 · 评分统计，[在线试玩](https://houssetkrier-collab.github.io/anime-planner/)） |
 | 🎏 [dual-pendulum-lab](https://github.com/houssetkrier-collab/dual-pendulum-lab) | 双摆混沌沙盒：RK4 积分 + 微扰对照，直观演示蝴蝶效应 |
 | 🏃 [gravity-flip-dash](https://github.com/houssetkrier-collab/gravity-flip-dash) | 一键翻转重力的霓虹跑酷小游戏（纯前端 · 零素材） |
 | 🖌 [pixelforge](https://github.com/houssetkrier-collab/pixelforge) | 浏览器本地像素画转换器：Median-Cut + 抖动，图片永不上传 |
+| 🎨 [nai-studio](https://github.com/houssetkrier-collab/nai-studio) | Nai Studio · NAI 兼容站通用绘图台（多账号中转 + 持久画廊 + 提示词工作台） |
 
 <details>
 <summary>📺 <b>本周状态栏</b>（点开有惊喜）</summary>
